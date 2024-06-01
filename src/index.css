@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: red;
+  background-color: skyblue;
+}
+
+/* ul{
+  display:flex;
+  margin:10px 20px ;
+}
+ul li{
+  margin:5px 10px;
+  background-color:#eee;
+  padding:10px 20px;
+} */

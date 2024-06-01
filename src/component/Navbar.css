@@ -1,0 +1,16 @@
+/* src/components/Navbar.css */
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #333;
+    padding: 10px 0;
+    transition: top 0.3s;
+    z-index: 1000;
+  }
+  
+  .hidden {
+    top: -80px; /* Adjust this value based on the height of your navbar */
+  }
+  
